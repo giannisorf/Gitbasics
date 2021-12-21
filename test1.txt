@@ -1,3 +1,7 @@
 This is the first entry in test1.txt
+<<<<<<< HEAD
 second line
 Main branch new change
+=======
+second line
+>>>>>>> b1
